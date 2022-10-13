@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    text-align: center;
+    font-size: 100%;
+    background-color: #A39F9E;
+}
+#Logo{
+    width: 450px;
+}
+#Imagem-do-produto{
+    width: 500px;
+    
+}
